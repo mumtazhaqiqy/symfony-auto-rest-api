@@ -1,0 +1,7 @@
+index:
+  path: /
+  controller: App\Controller\ApiController::index
+
+this:
+  path: /this
+  controller: App\Controller\ApiController::index
